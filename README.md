@@ -1,4 +1,4 @@
-# team-best-practicies
+# team-best-practices
 
 ### Cross-team catchup
 
