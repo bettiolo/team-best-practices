@@ -20,3 +20,17 @@
 
 ### Platform maintenance
 - Regularly go through platform/infrastracture rebuild excercise
+
+### Logging/Metrics
+- NGINX should log everything and include the x-tracer (and service name)
+- Edge Side Includes should record metrics and log it's own errors and x-tracer
+- Apps should record metrics about status codes
+- Apps should log errors, warn and info triggered by code
+- Apps should log only responses when status code 500+
+- elasticsearch/logstash errors caused by malformed application logs should be logged as well and retain the application name field
+- Apps should log request tracer (x-tracer)
+- Apps should send to downstream APIs the x-tracer header
+- Logger should log and write metrics to stdout/stderr
+- Docker logging plugin or command line tool should ship to logs and elk
+- Docker logging plugin or command line tool should ship metrics to a time series db
+- Logger should have a clear api to log x-tracer and error message, additional fields should be logged to a specific property in kibana to avoid name collisions with logstash fields
