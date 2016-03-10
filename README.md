@@ -60,3 +60,16 @@
 - Talk through how we build and deploy
 - Talk through the tools (VPN, GitHub, HipChat, Secrets management, Jenkins, Status hero)
 - Pair one afternoon with each team during the first week
+
+### Blueprint for 1-2-1s
+If there is anything that I want to discuss, I collect notes during the week prior to the 1-2-1 and add them to the following blueprint. Before the 1-2-1, I review the notes from the previous week. Where possible I act on the notes taken to ensure that I helped before the next 1-2-1.
+
+1-2-1s happen on Monday with every Mentee regularly every week, If a week is skipped, a note is taken.
+
+**Date (eg. 18 Jan 2016)**
+- How have you been?
+- What have you been working on?
+- (Additional specific questions?)
+- Have you had any problems or blockers?
+- Objectives for this week?
+- Longer time objectives?
