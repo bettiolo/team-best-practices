@@ -51,3 +51,12 @@
 - Create a NewRelic dashboard
 - Ensure metrics flowing to a DataDog
 - Ensure logs flowing to Kibana
+
+### Onboarding of new hires
+- Ask the new joiner for a brief bio and a photo and send an email to the tech team
+- Show around the building
+- Give the laptop/hardware
+- Talk through the platform (CDN -> AWS LB -> NGINX -> ESI -> APPs)
+- Talk through how we build and deploy
+- Talk through the tools (VPN, GitHub, HipChat, Secrets management, Jenkins, Status hero)
+- Pair one afternoon with each team during the first week
