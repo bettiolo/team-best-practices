@@ -32,7 +32,7 @@
 - Apps should send to downstream APIs the x-tracer header
 - Logger should log and write metrics to stdout/stderr
 - Docker logging plugin or command line tool should ship to logs and elk
-- Docker logging plugin or command line tool should ship metrics to a time series db
+- Docker logging plugin or command line tool should ship metrics to DataDog
 - Logger should have a clear api to log x-tracer and error message, additional fields should be logged to a specific property in kibana to avoid name collisions with logstash fields
 
 ### Maintenance of nodejs projects
@@ -41,3 +41,13 @@
 - Keep up to date NodeJS versions
 - Use shrinkwrap (To ensure that subsequent builds will happen with same dependency versions)
 
+### New project checklist
+- Add deployment info to DataDog
+- Add deployment info to NewRelic
+- Monitoring on DataDog
+- Monitoring on NewRelic
+- Monitoring on PingDom
+- Create a DataDog dashboard
+- Create a NewRelic dashboard
+- Ensure metrics flowing to a DataDog
+- Ensure logs flowing to Kibana
