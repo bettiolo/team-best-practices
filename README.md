@@ -45,6 +45,10 @@
 
 > TODO
 
+### What to log and which metrics to record
+
+> TODO: http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html
+
 ### New project checklist
 - Add deployment info to DataDog
 - Add deployment info to NewRelic
