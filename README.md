@@ -34,3 +34,10 @@
 - Docker logging plugin or command line tool should ship to logs and elk
 - Docker logging plugin or command line tool should ship metrics to a time series db
 - Logger should have a clear api to log x-tracer and error message, additional fields should be logged to a specific property in kibana to avoid name collisions with logstash fields
+
+### Maintenance of nodejs projects
+- Assign every project to an active team
+- Keep up to date NPM modules (eg. GreenKeeper)
+- Keep up to date NodeJS versions
+- Use shrinkwrap (To ensure that subsequent builds will happen with same dependency versions)
+
