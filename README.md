@@ -41,6 +41,10 @@
 - Keep up to date NodeJS versions
 - Use shrinkwrap (To ensure that subsequent builds will happen with same dependency versions)
 
+### Error handling and reporting
+
+> TODO
+
 ### New project checklist
 - Add deployment info to DataDog
 - Add deployment info to NewRelic
@@ -60,6 +64,20 @@
 - Talk through how we build and deploy
 - Talk through the tools (VPN, GitHub, HipChat, Secrets management, Jenkins, Status hero)
 - Pair one afternoon with each team during the first week
+
+### Phone Screening
+
+> TODO
+
+### Interviews
+- Welcome
+- (for in office interview) Show around the office & offer water, give some paper and pen for notes
+- Introduce (all, including remote) interviewer’s roles and backgrounds
+- Ask them for a really quick overview of their background (should be quick because you read their resume)
+- Ask questions from company's recommended questions
+- Interviewee questions?
+- Pair programming excercise
+- Interviewee questions?
 
 ### Blueprint for 1-2-1s
 If there is anything that I want to discuss, I collect notes during the week prior to the 1-2-1 and add them to the following blueprint. Before the 1-2-1, I review the notes from the previous week. Where possible I act on the notes taken to ensure that I helped before the next 1-2-1.
