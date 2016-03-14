@@ -71,7 +71,7 @@
 
 ### Phone Screening
 
-> TODO
+> TODO: Quick call where to asses minimum competency level
 
 ### Interviews
 - Welcome
