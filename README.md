@@ -69,11 +69,11 @@
 - Talk through the tools (VPN, GitHub, HipChat, Secrets management, Jenkins, Status hero)
 - Pair one afternoon with each team during the first week
 
-### Phone Screening
+### Interview: Phone Screening
 
 > TODO: Quick call where to asses minimum competency level
 
-### Interviews
+### Interview: On-site/Remote
 - Welcome
 - (for in office interview) Show around the office & offer water, give some paper and pen for notes
 - Introduce (all, including remote) interviewer’s roles and backgrounds
